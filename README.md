@@ -1,4 +1,6 @@
-# Coding Challenge - Due Date, March 21 2018. Create a Basic income cryptocurrency system. You don't have to write out code necessarily, just detail how such a system would work. Have your work (be that pseudocode, real code, or just technical writing) be submitted in the form of a github repository. Best idea wins! Submit your github links in the comment section of the video. 
+# Coding Challenge - Due Date, March 21 2018. 
+
+Create a Basic income cryptocurrency system. You don't have to write out code necessarily, just detail how such a system would work. Have your work (be that pseudocode, real code, or just technical writing) be submitted in the form of a github repository. Best idea wins! Submit your github links in the comment section of the video. 
 
 ## Overview
 
