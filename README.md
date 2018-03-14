@@ -1,3 +1,10 @@
+# Coding Challenge - Due Date, March 21 2018. Create a Basic income cryptocurrency system. You don't have to write out code necessarily, just detail how such a system would work. Have your work (be that pseudocode, real code, or just technical writing) be submitted in the form of a github repository. Best idea wins! Submit your github links in the comment section of the video. 
+
+## Overview
+
+This is the code for [this](https://youtu.be/QafdL3X873o) video on Youtube by Siraj raval on Basic Income. 
+
+
 # Group Income (Simple Edition)
 
 [![Gitter](https://badges.gitter.im/okTurtles/group-income.svg)](https://gitter.im/okTurtles/group-income) [![Build Status](https://img.shields.io/travis/okTurtles/group-income-simple/master.svg)](https://travis-ci.org/okTurtles/group-income-simple) [![Deps](https://david-dm.org/okTurtles/group-income-simple.svg)](https://david-dm.org/okTurtles/group-income-simple/#info=dependencies) [![Dev Deps](https://david-dm.org/okTurtles/group-income-simple/dev-status.svg)](https://david-dm.org/okTurtles/group-income-simple/#info=devDependencies)
